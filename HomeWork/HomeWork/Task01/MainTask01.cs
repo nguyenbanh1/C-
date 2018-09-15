@@ -67,6 +67,11 @@ namespace HomeWork.Task01
             repository.Class1.helloWorld();
             TestOnUbuntu.ConnectDB();
 
+
+            Console.WriteLine("--------------------");
+
+            Console.WriteLine(System.Configuration.ConfigurationManager.ConnectionStrings["ok"].ConnectionString);
+
             Console.ReadKey();
 
 

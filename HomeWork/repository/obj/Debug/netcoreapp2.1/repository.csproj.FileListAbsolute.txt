@@ -1,9 +1,0 @@
-C:\Users\Khanh Nguyen\source\repos\HomeWork\repository\bin\Debug\netcoreapp2.1\repository.deps.json
-C:\Users\Khanh Nguyen\source\repos\HomeWork\repository\bin\Debug\netcoreapp2.1\repository.dll
-C:\Users\Khanh Nguyen\source\repos\HomeWork\repository\bin\Debug\netcoreapp2.1\repository.pdb
-C:\Users\Khanh Nguyen\source\repos\HomeWork\repository\obj\Debug\netcoreapp2.1\repository.csproj.CoreCompileInputs.cache
-C:\Users\Khanh Nguyen\source\repos\HomeWork\repository\obj\Debug\netcoreapp2.1\repository.AssemblyInfoInputs.cache
-C:\Users\Khanh Nguyen\source\repos\HomeWork\repository\obj\Debug\netcoreapp2.1\repository.AssemblyInfo.cs
-C:\Users\Khanh Nguyen\source\repos\HomeWork\repository\obj\Debug\netcoreapp2.1\repository.dll
-C:\Users\Khanh Nguyen\source\repos\HomeWork\repository\obj\Debug\netcoreapp2.1\repository.pdb
-C:\Users\Khanh Nguyen\source\repos\HomeWork\repository\obj\Debug\netcoreapp2.1\repository.csprojAssemblyReference.cache

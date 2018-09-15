@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Data.SqlClient;
-using System.Data;
+
+
 
 namespace HomeWork.Task01
 {
@@ -48,7 +47,7 @@ namespace HomeWork.Task01
         {
             string sql = "select * from NHANVIEN";
 
-
+            
 
 
             SqlCommand sqlCommand = new SqlCommand(sql, conn);
@@ -72,10 +71,13 @@ namespace HomeWork.Task01
         }
         public static void ConnectDB()
         {
+            
+            
             using (SqlConnection connection = new SqlConnection(@"Data Source=192.168.1.101,1433;Initial Catalog=QuanLyDeAn;Integrated Security=True"))
             {
                 
-
+                
+                
                 try
                 {
                     connection.Open();
@@ -111,6 +113,8 @@ namespace HomeWork.Task01
                 
 
             }
+            Console.WriteLine("end connect ...");
+
         }
 
 

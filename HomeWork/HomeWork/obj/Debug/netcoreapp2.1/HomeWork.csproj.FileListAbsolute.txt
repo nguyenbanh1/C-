@@ -14,3 +14,4 @@ C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\bin\Debug\netcoreapp2.1\Ani
 C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\HomeWork.csproj.CopyComplete
 C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\bin\Debug\netcoreapp2.1\repository.dll
 C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\bin\Debug\netcoreapp2.1\repository.pdb
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\bin\Debug\netcoreapp2.1\HomeWork.dll.config

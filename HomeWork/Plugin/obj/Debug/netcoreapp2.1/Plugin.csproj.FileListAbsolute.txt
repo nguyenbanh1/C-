@@ -1,0 +1,12 @@
+C:\Users\Khanh Nguyen\source\repos\HomeWork\Plugin\bin\Debug\netcoreapp2.1\Plugin.deps.json
+C:\Users\Khanh Nguyen\source\repos\HomeWork\Plugin\bin\Debug\netcoreapp2.1\Plugin.runtimeconfig.json
+C:\Users\Khanh Nguyen\source\repos\HomeWork\Plugin\bin\Debug\netcoreapp2.1\Plugin.runtimeconfig.dev.json
+C:\Users\Khanh Nguyen\source\repos\HomeWork\Plugin\bin\Debug\netcoreapp2.1\Plugin.dll
+C:\Users\Khanh Nguyen\source\repos\HomeWork\Plugin\obj\Debug\netcoreapp2.1\Plugin.csprojAssemblyReference.cache
+C:\Users\Khanh Nguyen\source\repos\HomeWork\Plugin\obj\Debug\netcoreapp2.1\Plugin.csproj.CoreCompileInputs.cache
+C:\Users\Khanh Nguyen\source\repos\HomeWork\Plugin\obj\Debug\netcoreapp2.1\Plugin.AssemblyInfoInputs.cache
+C:\Users\Khanh Nguyen\source\repos\HomeWork\Plugin\obj\Debug\netcoreapp2.1\Plugin.AssemblyInfo.cs
+C:\Users\Khanh Nguyen\source\repos\HomeWork\Plugin\bin\Debug\netcoreapp2.1\Plugin.pdb
+C:\Users\Khanh Nguyen\source\repos\HomeWork\Plugin\obj\Debug\netcoreapp2.1\Plugin.dll
+C:\Users\Khanh Nguyen\source\repos\HomeWork\Plugin\obj\Debug\netcoreapp2.1\Plugin.pdb
+C:\Users\Khanh Nguyen\source\repos\HomeWork\Plugin\bin\Debug\netcoreapp2.1\Plugin.dll.config
