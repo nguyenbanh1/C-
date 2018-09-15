@@ -1,0 +1,16 @@
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\bin\Debug\netcoreapp2.1\HomeWork.deps.json
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\bin\Debug\netcoreapp2.1\HomeWork.runtimeconfig.json
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\bin\Debug\netcoreapp2.1\HomeWork.runtimeconfig.dev.json
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\bin\Debug\netcoreapp2.1\HomeWork.dll
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\bin\Debug\netcoreapp2.1\HomeWork.pdb
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\HomeWork.csprojAssemblyReference.cache
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\HomeWork.AssemblyInfoInputs.cache
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\HomeWork.AssemblyInfo.cs
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\HomeWork.dll
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\HomeWork.pdb
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\bin\Debug\netcoreapp2.1\Animal.dll
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\bin\Debug\netcoreapp2.1\Animal.pdb
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\obj\Debug\netcoreapp2.1\HomeWork.csproj.CopyComplete
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\bin\Debug\netcoreapp2.1\repository.dll
+C:\Users\Khanh Nguyen\source\repos\HomeWork\HomeWork\bin\Debug\netcoreapp2.1\repository.pdb
