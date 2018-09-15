@@ -65,6 +65,8 @@ namespace HomeWork.Task01
             Animal.Class1.hello();
             Animal.Class1.helloWorld();
             repository.Class1.helloWorld();
+            TestOnUbuntu.ConnectDB();
+
             Console.ReadKey();
 
 

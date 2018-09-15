@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork", "HomeWork\HomeWork.csproj", "{EDD6C9FA-710E-4AF9-8280-F3F0C4702FA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal", "Animal\Animal.csproj", "{A4672AA4-CAA0-447A-A9A0-04BB94C84A62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animal", "Animal\Animal.csproj", "{A4672AA4-CAA0-447A-A9A0-04BB94C84A62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repository", "repository\repository.csproj", "{A5496F51-6A29-417E-B284-B1C8A1B6992D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "repository", "repository\repository.csproj", "{A5496F51-6A29-417E-B284-B1C8A1B6992D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
