@@ -72,7 +72,7 @@ namespace HomeWork.Task01
         }
         public static void ConnectDB()
         {
-            using (SqlConnection connection = new SqlConnection(@"Data Source=DESKTOP-GTDP7CC;Initial Catalog=QuanLyDeAn;Integrated Security=True"))
+            using (SqlConnection connection = new SqlConnection(@"Data Source=192.168.1.101,1433;Initial Catalog=QuanLyDeAn;Integrated Security=True"))
             {
                 
 
